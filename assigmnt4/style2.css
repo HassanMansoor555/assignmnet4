@@ -1,0 +1,31 @@
+.Cloud{
+font-family: -webkit-pictograph;
+font-weight: bold;
+
+}
+
+.navbar-brand{
+background-color: #e6781e;	
+}
+
+h3{
+	margin-top: 200px;
+}
+
+.FormContainer{
+	border:2px solid #e6781e;
+	margin-top:20px;
+	margin-left:500px;
+	margin-right:500px;
+	height: 500px;
+}
+
+.MyForm{
+	margin-left: 85px;
+}
+
+button{
+	margin-left:45px;
+	background-color: #e6781e;
+	font-weight:bold;
+}
